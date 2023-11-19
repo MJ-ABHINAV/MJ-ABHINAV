@@ -1,7 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/219147/screenshots/2326262/media/14d4952c7d555652c534482a9608cb1d.gif)](https://rishavchanda.io)
 <h1 align="center">Oii , I'm ABHINAV MJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/bf/b1/06bfb18aaf9514f6a4fde5be6c3b007b.gif">
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mj" alt="mj" /></a> </p>
 
