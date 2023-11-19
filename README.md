@@ -1,14 +1,21 @@
+[![MasterHead](https://i.pinimg.com/originals/2d/d2/c4/2dd2c4b42556e84684450bd49fddd203.jpg)](https://rishavchanda.io)
 <h1 align="center">Oii , I'm ABHINAV MJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974">
+<img align="right" alt="Coding" width="350" src="https://cdna.artstation.com/p/assets/images/images/038/806/394/original/camille-unknown-berzerk.gif?1624114974">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mj" alt="mj" /></a> </p>
-
+<br>
+<br>
 - 🌱 I’m currently learning **PROBS EVERTHING**
 
 - 📫 How to reach me **mjmace94@gmail.com**
 
 - ⚡ Fun fact **Don't know nothing!!**
+
+- 😉 Code with me..?
+
+- 💀 Due date **2081**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mj" alt="mj" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
