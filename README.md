@@ -4,15 +4,15 @@
 
 <br>
 <br>
-- 🌱 I’m currently learning **PROBS EVERTHING**
+- 🌱 I’m currently learning ..........................
 
 - 📫 How to reach me **mjmace94@gmail.com**
 
-- ⚡ Fun fact **Don't know nothing!!**
+- ⚡ Fun fact ........................................
 
 - 😉 Code with me..?
 
-- 💀 Due date **2081**
+- 💀 Due date........................................
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
